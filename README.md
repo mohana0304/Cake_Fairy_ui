@@ -7,7 +7,7 @@ The project demonstrates the user experience and design flow through an embedded
 
 ## 📂 Project Contents
 - `index.html` – Landing page for demo preview and Figma prototype link.
-- `vistara.mp4` – Demo preview video (Figma output).
+- `cake_fairy.mp4` – Demo preview video (Figma output).
 - `preview.png` – Screenshot preview of the prototype.
 - `README.md` – Documentation file.
 
