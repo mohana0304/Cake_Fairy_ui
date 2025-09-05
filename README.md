@@ -33,7 +33,7 @@ Figma prototype exported as **demo video**.
 
 ## 🚀 Figma Prototype
 Explore the interactive prototype here:  
-[Open Figma Prototype]([https://www.figma.com/design/003JXGKfjhXShiFGi5eDOt/vistara-studio?node-id=0-1&m=dev&t=GJghRDo6XdME085z-1](https://www.figma.com/design/4n3EnSgDIzjRn97vDTa7Ue/cake_fairy?node-id=0-1&p=f&t=osoPyRptNe2ChFht-0))
+[Open Figma Prototype](https://www.figma.com/proto/4n3EnSgDIzjRn97vDTa7Ue/cake_fairy?node-id=9-3&starting-point-node-id=9%3A3&content-scaling=responsive)
 
 ---
 
