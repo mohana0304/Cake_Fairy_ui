@@ -1,22 +1,34 @@
 # 🎂 Cake Fairy – Figma UI Showcase
 
-This repository contains the **Figma prototype showcase** for **Cake Fairy**, a modern and elegant UI design.  
-The project demonstrates the user experience and design flow through an embedded demo video and direct access to the Figma prototype.
+The **Cake Fairy landing page**, designed in **Figma** and built with **HTML & CSS**, featuring a simple and responsive layout.
 
 ---
+## 🎨 Includes
+- Elegant and modern **cake ordering app UI**
+- Sweet pastel **color theme** (pink & cream inspired)
+- Smooth **UI flow demo** recorded from Figma
+- Clean **video embed** to showcase the prototype
+- **Hosted live on GitHub Pages**
 
-## 📂 Project Contents
+---
+## 🌐 Live Demo
+🔗 [View Project on GitHub Pages](https://mohana0304.github.io/Cake_Fairy_ui/
+)
+
+
+
+---
+## 📂 Files Included
 - `index.html` – Landing page for demo preview and Figma prototype link.
 - `cake_fairy.mp4` – Demo preview video (Figma output).
 - `preview.png` – Screenshot preview of the prototype.
 - `README.md` – Documentation file.
 
 ---
+## 🎞️ Demo Preview
+Figma prototype exported as **demo video**.  
 
-## 🎬 Demo Preview
-You can view the prototype demo video by opening **[index.html](./index.html)** in your browser.  
-The video is embedded and plays directly on the page.
-
+📽️ `cake_fairy.mp4` is embedded directly in the live page.
 ---
 
 ## 🚀 Figma Prototype
